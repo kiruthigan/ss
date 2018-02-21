@@ -61,11 +61,11 @@
   </build>
   
 <distributionManagement>
- <repository>
+ <releaseRepository>
            <id>deployment</id>
      <name>Release</name>
      <url>http://13.126.93.242:8081/repository/reln/</url>
-                </repository>
+                </releaseRepository>
                 <snapshotRepository>
                         <id>deployment</id>
                         <name>Snapshot</name>
