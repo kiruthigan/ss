@@ -60,10 +60,10 @@
     </plugins>
   </build>
 <distributionManagement>
-                <repository>
-                        <id>deployment</id>
-                        <name>Release</name>
-                        <url>http://13.126.93.242:8081/repository/reln/</url>
+   <repository>
+           <id>deployment</id>
+     <name>Release</name>
+     <url>http://13.126.93.242:8081/repository/reln/</url>
                 </repository>
                 <snapshotRepository>
                         <id>deployment</id>
